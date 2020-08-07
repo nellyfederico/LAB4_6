@@ -1,0 +1,13 @@
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.csprojAssemblyReference.cache
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.AssemblyInfoInputs.cache
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.AssemblyInfo.cs
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.csproj.CoreCompileInputs.cache
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.exe
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.deps.json
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.runtimeconfig.json
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.runtimeconfig.dev.json
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.dll
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\bin\Debug\netcoreapp3.1\LAB4_6ArraytodoList.pdb
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.dll
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.pdb
+C:\Users\nalle\source\repos\LAB4_6ArraytodoList\LAB4_6ArraytodoList\obj\Debug\netcoreapp3.1\LAB4_6ArraytodoList.genruntimeconfig.cache
